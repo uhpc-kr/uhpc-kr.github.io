@@ -1,4 +1,4 @@
-## Union of High school Programming Club
+## The Union of High school Programming Club
 
 You can [join UHPC Korea](https://google.com/) using this Google Form Link.
 
