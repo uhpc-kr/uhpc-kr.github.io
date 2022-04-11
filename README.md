@@ -9,7 +9,7 @@ You can [join UHPC Korea](https://google.com/) using this Google Form Link.
 
 #### 주최
 
-- 하나고등학교 권동한([kznm.develop@gmail.com](mainto:kznm.develop@gmail.com), [has_22017@hana.hs.kr](mailto:has_22017@hana.hs.kr)
+- 하나고등학교 권동한([kznm.develop@gmail.com](mailto:kznm.develop@gmail.com), [has_22017@hana.hs.kr](mailto:has_22017@hana.hs.kr)
 - 하나고등학교 박정연([krrrr@dazzle.works](mailto:krrrr@dazzle.works), [has_21073@hana.hs.kr](mailto:has_21073@hana.hs.kr))
 
 
