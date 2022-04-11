@@ -8,10 +8,10 @@ You can [join UHPC Korea](https://google.com/) using this Google Form Link.
 전국 고등학교 프로그래밍 동아리 연합, 이하 UHPC는 [전대프연 및 UCPC](https://ucpc.me)를 모티브로 청소년 프로그래밍 활동 증진을 통한 IT 역량 향상을 위해 창립된 연합이며, 2022년을 시작으로 매년 UHPC Contest를 개최하기 위해 노력하고 있습니다.
 
 #### 주최
-```
-하나고등학교 권동한(kznm.develop@gmail.com, has_22017@hana.hs.kr)
-하나고등학교 박정연(krrrr@dazzle.works, has_21073@hana.hs.kr)
-```
+
+- 하나고등학교 권동한([kznm.develop@gmail.com](mainto:kznm.develop@gmail.com), [has_22017@hana.hs.kr](mailto:has_22017@hana.hs.kr)
+- 하나고등학교 박정연([krrrr@dazzle.works](mailto:krrrr@dazzle.works), [has_21073@hana.hs.kr](mailto:has_21073@hana.hs.kr))
+
 
 ### UHPC 2022
 
