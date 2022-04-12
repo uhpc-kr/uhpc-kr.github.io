@@ -1,6 +1,6 @@
 ## The Union of High school Programming Club
 
-준비중입니다. Contact: (2022@uhpc.kr)[mailto:2022@uhpc.kr]
+준비중입니다. Contact: 2022@uhpc.kr
 
 <!--
 
