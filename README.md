@@ -1,5 +1,9 @@
 ## The Union of High school Programming Club
 
+준비중입니다. Contact: (2022@uhpc.kr)[mailto:2022@uhpc.kr]
+
+<!--
+
 You can [join UHPC Korea](https://google.com/) using this Google Form Link.
 
 
@@ -60,6 +64,7 @@ TBD
 
 TBD
 
+-->
 
 <!--
 ```markdown
