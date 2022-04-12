@@ -1,4 +1,4 @@
-## The Union of High school Programming Club
+## United High school Programming Contest
 
 준비중입니다. Contact: 2022@uhpc.kr
 
