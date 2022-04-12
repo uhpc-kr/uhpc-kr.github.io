@@ -9,7 +9,7 @@ You can [join UHPC Korea](https://google.com/) using this Google Form Link.
 
 #### 주최
 
-- 
+- 준비중
 
 
 ### UHPC 2022
