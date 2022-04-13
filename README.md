@@ -2,6 +2,8 @@
 
 <ins>[대회 안내](https://uhpc.kr/about)</ins> <ins>[예선](https://uhpc.kr/tryout)</ins> <ins>[본선](https://uhpc.kr/final)</ins> <ins>[Call for Tasks](https://uhpc.kr/tasks)</ins> <ins>[스폰서 문의](https://uhpc.kr/sponsor)</ins>
 
+<button type="button" onclick="https://uhpc.kr/about">대회 안내</button>
+
 # 준비중입니다.
 
 ### Contact
