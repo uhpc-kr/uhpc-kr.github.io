@@ -1,6 +1,6 @@
 ## United High school Programming Contest
 
-__[대회 안내](https://uhpc.kr/about)__ [예선](https://uhpc.kr/tryout) [본선](https://uhpc.kr/final) [Call for Tasks](https://uhpc.kr/tasks) [스폰서 문의](https://uhpc.kr/sponsor)
+<ins>[대회 안내](https://uhpc.kr/about)</ins> [예선](https://uhpc.kr/tryout) [본선](https://uhpc.kr/final) [Call for Tasks](https://uhpc.kr/tasks) [스폰서 문의](https://uhpc.kr/sponsor)
 
 # 준비중입니다.
 
