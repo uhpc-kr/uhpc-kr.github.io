@@ -1,6 +1,6 @@
 ## United High school Programming Contest
 
-준비중입니다. Contact: 2022@uhpc.kr
+준비중입니다. Contact: [2022@uhpc.kr](mailto:2022@uhpc.kr)
 
 <!--
 
