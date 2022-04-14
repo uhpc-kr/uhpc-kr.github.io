@@ -1,9 +1,15 @@
 ## United High school Programming Contest
 
-<ins>[대회 안내](https://uhpc.kr/about)</ins> <ins>[예선](https://uhpc.kr/tryout)</ins> <ins>[본선](https://uhpc.kr/final)</ins> <ins>[Call for Tasks](https://uhpc.kr/tasks)</ins> <ins>[스폰서 문의](https://uhpc.kr/sponsor)</ins>
+<ins>[[대회 안내]](https://uhpc.kr/about)</ins> <ins>[[예선]](https://uhpc.kr/tryout)</ins> <ins>[[본선]](https://uhpc.kr/final)</ins> <ins>[[Call for Tasks]](https://uhpc.kr/tasks)</ins> <ins>[[스폰서 문의]](https://uhpc.kr/sponsor)</ins>
 
 
-# 준비중입니다.
+# 2022 Winter
+
+전국 고등학생 프로그래밍 연합 대회
+
+### 사전 수요조사 진행 중
+
+~ 6월중 마감 예정, [[Google Forms]](https://forms.gle/oMo2bghBPnwBv2DAA)
 
 ### Contact
 
