@@ -1,1 +1,16 @@
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
+locale: ko
+title: "UHPC 2022"
+title_separator: "|"
+url: "https://uhpc.kr"
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: false
+      read_time: false
+      show_date: false
+      author_profile: false
+atom_feed:
+  hide: true

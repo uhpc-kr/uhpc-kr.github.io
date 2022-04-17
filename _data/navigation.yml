@@ -1,0 +1,12 @@
+main:
+  - title: "대회 안내"
+    url: /about/
+  - title: "예선"
+    url: /tryout/
+  - title: "본선"
+    url: /final/
+  - title: "Call For Tasks"
+    url: /tasks/
+  - title: "스폰서 문의"
+    url: /sponsor/
+  
